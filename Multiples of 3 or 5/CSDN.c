@@ -8,7 +8,7 @@ int main()
 
     for (i = 0; i < number; i++)
     {
-        if (i%5 == 0 || i%3 == 0 )
+        if (i%5 == 0 || i%3 == 0)
         {
             sum += i;
         }
